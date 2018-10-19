@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/sovereign/sovereign.svg?branch=master)](https://travis-ci.org/sovereign/sovereign)
+[![Build Status](https://travis-ci.org/sovereign/sovereign.svg?branch=master)](https://travis-ci.org/sovereign/sovereign) [![GuardRails badge](https://badges.production.guardrails.io/moul/sovereign.svg)](https://www.guardrails.io)
 
 Introduction
 ============
